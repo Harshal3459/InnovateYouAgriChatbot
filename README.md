@@ -40,7 +40,7 @@ It uses **AI embeddings + FAISS similarity search** to match farmer queries with
 ---
 
 ## Screenshots
-!chatbot Screenshot](images/chatbot_example)
+![chatbot Screenshot](images/chatbot_example.jpg)
 
 
 
