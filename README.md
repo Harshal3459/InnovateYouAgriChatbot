@@ -39,6 +39,11 @@ It uses **AI embeddings + FAISS similarity search** to match farmer queries with
 
 ---
 
+## Screenshots
+!chatbot Screenshot](images/chatbot_example)
+
+
+
 ## ▶️ Run Locally
 
 # 1. Clone repository
